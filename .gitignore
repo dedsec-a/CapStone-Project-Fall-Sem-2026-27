@@ -34,3 +34,4 @@ target/
 ml/.cache/
 __pycache__/
 *.pyc
+.venv/
